@@ -5,9 +5,9 @@
 ### Источники данных: 
 Федеральная служба государственной статистики (Росстат), Федеральная таможенная служба (ФТС).
 ### Лицензия: 
-<a href='http://opendefinition.org/licenses/cc-by-sa/'> Creative Commons Attribution Share-Alike (cc-by-sa)</a>   Администратор: Клейменова Ангелина, angelinakrechet@gmail.com
+<a href='http://opendefinition.org/licenses/cc-by-sa/'> Creative Commons Attribution Share-Alike (cc-by-sa)</a><br>   Администратор: Клейменова Ангелина, angelinakrechet@gmail.com
 ### Ограничения на материал, легальность: 
 используемые данные не относятся к категории ограниченного доступа. 
 ### Инструменты, форматы данных
-Формат данных: XLS
+Формат данных: XLS<br>
 Инструменты: Excel
